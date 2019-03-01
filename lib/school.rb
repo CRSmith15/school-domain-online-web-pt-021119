@@ -17,6 +17,10 @@ class School
     self.roster[grade]
     
   end
+  
+  def sort(grade, student)
+    self.
+  end 
     
     
 end
